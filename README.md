@@ -68,5 +68,3 @@ The model was created with a series of proportional, concentric ellipses represe
 | Stage 3: Keychain Hole Coordinates | Stage 4: Completed 3D Design Profile |
 | :---: | :---: |
 | ![Stage 3](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/image_a4d551.png) | ![Stage 4](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/image_a4d5c5.png) |
-
-*(Note: Please replace `YOUR_USERNAME` and `YOUR_REPO_NAME` in the image URLs above with your actual GitHub username and repository name once created!)*
