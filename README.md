@@ -63,7 +63,7 @@ The model was created with a series of proportional, concentric ellipses represe
 
 | Stage 1: Initial Base Ellipses Dimensions | Stage 2: Full Emblem Dimensions & Alignment |
 | :---: | :---: |
-| ![Stage 1](stage1_image.png) | ![Stage 2](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/image_a4d243.png) |
+| ![Stage 1](stage1_image.jpg) | ![Stage 2](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/images/image_a4d243.png) |
 
 | Stage 3: Keychain Hole Coordinates | Stage 4: Completed 3D Design Profile |
 | :---: | :---: |
